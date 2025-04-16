@@ -1,3 +1,7 @@
+# [My notes]
+* Article describing use of cursor AI for this project: https://manuel.kiessling.net/2025/03/31/how-seasoned-developers-can-achieve-great-results-with-ai-coding-agents/
+* Check [Requirements.md](https://github.com/Zualemo-xo/platform-problem-monitoring-core/blob/main/docs/REQUIREMENTS.md)
+
 # Platform Problem Monitoring — Core Application
 
 [![Tests](https://github.com/dx-tooling/platform-problem-monitoring-core/actions/workflows/tests.yml/badge.svg)](https://github.com/dx-tooling/platform-problem-monitoring-core/actions/workflows/tests.yml)
